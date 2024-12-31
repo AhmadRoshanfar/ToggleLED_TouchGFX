@@ -1,0 +1,17 @@
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:67:6:HAL_MspInit	1
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:91:6:HAL_CRC_MspInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:114:6:HAL_CRC_MspDeInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:136:6:HAL_DCACHE_MspInit	3
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:169:6:HAL_DCACHE_MspDeInit	3
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:202:6:HAL_DMA2D_MspInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:228:6:HAL_DMA2D_MspDeInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:253:6:HAL_GPU2D_MspInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:282:6:HAL_GPU2D_MspDeInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:309:6:HAL_XSPI_MspInit	3
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:387:6:HAL_XSPI_MspDeInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:430:6:HAL_I2C_MspInit	3
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:477:6:HAL_I2C_MspDeInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:508:6:HAL_JPEG_MspInit	7
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:598:6:HAL_JPEG_MspDeInit	2
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:627:6:HAL_LTDC_MspInit	3
+C:/Users/Ahmad/Desktop/TouchGFX/ToggleLED/ToggleLED/Core/Src/stm32u5xx_hal_msp.c:757:6:HAL_LTDC_MspDeInit	2
